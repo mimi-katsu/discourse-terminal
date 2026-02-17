@@ -5,7 +5,6 @@
 
 register_asset "javascripts/discourse/terminal-route-map.js"
 register_asset "javascripts/discourse/routes/terminal.js"
-register_asset "javascripts/discourse/templates/terminal.hbs"
 
 after_initialize do
   # JSON endpoint (data)
